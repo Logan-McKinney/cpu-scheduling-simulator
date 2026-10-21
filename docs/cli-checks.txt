@@ -1,6 +1,0 @@
-PASS zero-count: exit 1
-PASS nonnumeric-count: exit 1
-PASS zero-burst: exit 1
-PASS valid-interactive: exit 0
-PASS malformed-workload: exit 1
-PASS zero-quantum CLI: exit 1
